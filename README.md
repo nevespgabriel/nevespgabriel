@@ -4,9 +4,9 @@
 
 `I love technology and the art of finding solutions to different problems`
 
-- ⛨ I actually work on SauvviTech, a startup from 🦁 Lions Startups focused on better connecting people to their healthcare
-- 🎯 I'm now learning design patterns concepts and how to better apply SOLID principles in different ocasions
-- 💪🏼 Future Goals: learn more technologies - Never stop creating new ideas.
+- ⛨ I currently work at SauvviTech, a startup from 🦁 Lions Startups focused on improving the way people connect to healthcare.
+- 🎯 I'm currently learning the concepts of design patterns and how to better apply SOLID principles in different occasions.
+- 💪🏼 Future Goals: to learn more technologies and never stop creating new ideas.
 
 ---
 
