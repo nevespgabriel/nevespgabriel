@@ -1,5 +1,5 @@
 # Hello, I'm Gabriel Neves!
-## I love technology and the art of finding solutions to different problems
+`I love technology and the art of finding solutions to different problems`
 
 - ⛨ I actually work on SauvviTech, a startup from 🦁 Lions Startups focused on better connecting people to their healthcare
 - 🎯 I'm now learning design patterns concepts and how to better apply SOLID principles in different ocasions
