@@ -15,9 +15,9 @@ Most of my professional work was developed in private company repositories, main
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL, C
+**Languages:** TypeScript, JavaScript, Java
 **Backend:** Node.js, REST APIs, gRPC
-**Databases:** PostgreSQL, MongoDB, MySQL
+**Databases:** PostgreSQL, MySQL, MongoDB
 **DevOps/Cloud:** Docker, AWS, Git, GitHub, CI/CD
 **Frontend/Mobile:** Vue.js, Flutter
 
