@@ -1,43 +1,76 @@
-# Hello, I'm Gabriel Neves!
+# Gabriel Pereira Neves
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+**Backend Developer Junior | Engineering Informatics Student**
 
-`I love technology and the art of finding solutions to different problems`
+I'm a backend-focused developer with professional experience building and maintaining services using **Node.js**, **TypeScript**, **REST APIs**, **PostgreSQL**, **MongoDB**, **Apache Kafka**, **Docker** and **AWS**.
 
-- ⛨ I currently work at SauvviTech, a startup from 🦁 Lions Startups focused on improving the way people connect to healthcare.
-- 🎯 I'm currently learning the concepts of design patterns and how to better apply SOLID principles in different occasions.
-- 💪🏼 Future Goals: to learn more technologies and never stop creating new ideas.
+Most of my professional work was developed in private company repositories, mainly in healthcare and ERP systems. My public GitHub is currently focused on academic projects, backend studies and selected personal experiments.
 
 ---
 
-##### Programming Languages I use
+## Main Focus
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
-##### Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=figma&logoColor=F24E1E)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css&logoColor=663399)
-![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mongodb&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mysql&logoColor=47A248)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=231F20)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
-<br/>
+* Backend development with Node.js and TypeScript
+* REST API design and service integration
+* Relational and NoSQL databases
+* Asynchronous communication with Kafka
+* Clean code, SOLID principles and maintainable architecture
+* Cloud and deployment workflows with Docker and AWS
 
 ---
 
-### :zap: Github Stats
+## Technical Skills
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=nevespgabriel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Gabriel's Github Stats" width="60%">
+**Languages**
+TypeScript, JavaScript, Python, Java
 
+**Backend**
+Node.js, REST APIs, gRPC, authentication, service integration
+
+**Databases and Messaging**
+PostgreSQL, MongoDB, Apache Kafka
+
+**Cloud and DevOps**
+AWS, Docker, Git, GitHub, CI/CD
+
+**Frontend and Mobile**
+Vue.js, Flutter
+
+---
+
+## Experience
+
+**Backend Developer Junior — SauvviTech**
+Worked on backend services for healthcare-related applications, including REST APIs, service integration, cloud deployment support, asynchronous communication and database maintenance.
+
+**Full Stack Developer & Systems Analyst — Lions Startups**
+Contributed to the development of an ERP system, working on business rules, database modeling, administrative interfaces and backend integration.
+
+---
+
+## Academic and Technical Projects
+
+### Digital Twin for Industrial Processes
+
+Prototype for industrial process monitoring, involving telemetry simulation, backend integration, real-time data synchronization and dashboard visualization.
+
+### Sustainable Marketplace Architecture
+
+Backend-oriented software modeling project focused on business rules, entity modeling and transaction flows for a waste management platform.
+
+---
+
+## Education
+
+**Instituto Politécnico de Bragança**
+Bachelor's Degree in Informatics Engineering — International Double Degree Program
+
+**Universidade Tecnológica Federal do Paraná**
+Technology Degree in Systems Analysis and Development
+
+---
+
+## Contact
+
+* LinkedIn: [linkedin.com/in/gabriel-pereira-neves](https://linkedin.com/in/gabriel-pereira-neves-a3957927b/)
+* Email: [nevespgabriel@gmail.com](mailto:nevespgabriel@gmail.com)
